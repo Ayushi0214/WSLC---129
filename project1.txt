@@ -1,0 +1,15 @@
+#Project = 1 theatre ticket booking system
+"""
+total = 150
+normal = 130 250rs
+recliners = 20  400rs
+
+5 - normal
+
+145
+125
+
+bill 
+do you want to add a combo of rs 300?
+800+300
+1100"""
